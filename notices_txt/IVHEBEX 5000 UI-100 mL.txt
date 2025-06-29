@@ -1,0 +1,296 @@
+Dénomination du médicament
+IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion
+Immunoglobuline humaine de l'hépatite B
+Encadré
+Veuillez lire attentivement cette notice avant dutiliser ce médicament car elle contient des informations importantes pour vous.
+·
+Gardez cette notice. Vous pourriez avoir besoin de la relire.
+·
+Si vous avez dautres questions, interrogez votre médecin, votre pharmacien ou votre infirmier/ère.
+·
+Ce médicament vous a été personnellement prescrit. Ne le donnez pas à dautres personnes. Il pourrait leur être nocif, même si les signes de leur maladie sont identiques aux vôtres.
+·
+Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre pharmacien ou votre infirmier/ère. Ceci sapplique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice.
+Voir rubrique 4.
+Que contient cette notice ?
+1. Qu'est-ce que IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion et dans quels cas est-il utilisé ?
+2. Quelles sont les informations à connaître avant d'utiliser IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion ?
+3. Comment utiliser IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion ?
+4. Quels sont les effets indésirables éventuels ?
+5. Comment conserver IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion ?
+6. Contenu de lemballage et autres informations.
+1. QUEST-CE QUE IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion ET DANS QUELS CAS EST-IL UTILISE ?
+Classe pharmacothérapeutique - code ATC : J06BB04
+IVheBex est un médicament qui appartient à la classe des immunoglobulines humaines (Ig) appelées aussi anticorps.
+IVheBex contient un taux élevé danticorps dirigés contre le virus de lhépatite B.
+IVheBex est utilisé après une greffe de foie chez les patients qui ont eu une hépatite B. Ce médicament est utilisé pour prévenir une nouvelle infection par le virus de lhépatite B.
+2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT DUTILISER IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion ?
+Nutilisez jamais IVHEBEX :
+·
+si vous êtes allergique (hypersensible) à lun des composants contenus dans IVheBex (mentionnés dans la rubrique 6), et notamment à la pepsine d'origine animale (porcine) utilisée au cours de la fabrication et présente à létat de traces.
+·
+si vous êtes allergique (hypersensible) à certains anticorps humains (immunoglobulines humaines), et notamment si vous avez une quantité insuffisante danticorps appelés IgA et aussi des anticorps appelés anti-IgA.
+Avertissements et précautions
+Adressez‑vous à votre médecin, pharmacien ou infirmier/ère avant dutiliser IVheBex.
+IVheBex doit être associé à la vaccination contre le virus de l'hépatite B. La première utilisation du vaccin peut être effectuée le même jour que celle d'IVheBex. Néanmoins, les deux injections seront faites à deux endroits différents du corps.
+Votre médecin vous demandera deffectuer régulièrement des tests sanguins pour vérifier votre taux d'anticorps contre lhépatite B appelés anticorps anti-HBs.
+Globules blancs
+Il est fréquent dobserver une diminution transitoire du taux de certains globules blancs (leucopénie/neutropénie). Ce phénomène survient habituellement quelques heures ou jours après la perfusion et se résorbe spontanément dans les 7 à 14 jours.
+Adressez‑vous à votre médecin avant dutiliser ce médicament si vous présentez :
+·
+un faible taux de globules blancs, ou
+·
+si vous prenez un médicament susceptible de diminuer le nombre de globules blancs.
+Syndrome de méningite aseptique
+Des cas de syndrome de méningite aseptique (réversible et non infectieux) ont été rapportés avec des traitements par immunoglobulines tel que IVheBex. Le syndrome débute généralement entre quelques heures et 2 jours après le traitement et peut se manifester avec les symptômes suivants : fièvre, mal de tête, raideur de la nuque, nausée, vomissements.
+La méningite aseptique peut survenir plus fréquemment en association avec un traitement par immunoglobulines à forte dose.
+Si vous présentez de tels symptômes, veuillez vous adresser à votre professionnel de santé pour un examen neurologique complet, afin dexclure dautres causes de méningite.
+L'arrêt du traitement a entraîné une rémission de la méningite aseptique en quelques jours sans séquelles.
+Anémie hémolytique/hémolyse
+Une anémie hémolytique (
+diminution passagère des globules rouges du fait de leur destruction)
+peut survenir suite à un traitement par immunoglobulines tel que IVheBex, en particulier si vous appartenez aux groupes sanguins A, B ou AB.
+Une anémie hémolytique réversible peut être caractérisée par les symptômes suivants : pâleur, fatigue, faiblesse, ictère, urine foncée. Si vous recevez des immunoglobulines telles que IVheBex, vous devez être surveillé(e) pour les signes cliniques et les symptômes de l'hémolyse.
+Syndrome de détresse respiratoire post-transfusionnelle (TRALI Transfusion Related Acute Lung Injury)
+De rares cas de syndrome de détresse respiratoire post-transfusionnelle (TRALI) ont été rapportés chez les patients recevant une immunoglobuline telle que IVheBex. Ce syndrome est caractérisé par une diminution du taux d'oxygène dans le corps (hypoxémie), des difficultés respiratoires (dyspnée), une augmentation du rythme respiratoire (tachypnée), un bleuissement de la peau (cyanose), une fièvre et une diminution de la pression artérielle (hypotension). Les symptômes de TRALI apparaissent généralement pendant la perfusion d'immunoglobuline ou dans les 6 heures après.
+Par conséquent, si vous remarquez une telle réaction pendant la perfusion de IVheBex, informez-en votre médecin immédiatement. Il/elle décidera si le débit de perfusion doit être réduit ou si la perfusion doit être interrompue.
+Surveillance pendant ladministration dIVheBex
+Pour éviter tout risque de réaction, le médecin contrôlera le débit de la perfusion et ladaptera en fonction de votre cas. Pendant la perfusion, votre médecin mettra en place une surveillance médicale pour détecter tout signe dallergie ou dautres réactions.
+Pour éviter tout risque de réaction, IVheBex vous sera administré lentement pendant les 30 premières minutes et vous devrez rester sous la surveillance dun médecin ou dun(e) infirmier/ère :
+·
+tout au long de la perfusion et au moins une heure après la perfusion si votre médecin choisit un débit de perfusion élevé, si vous avez un faible taux danticorps dans votre sang, si vous navez jamais pris ce médicament ou si ladministration de la dernière perfusion remonte à longtemps,
+·
+tout au long de la perfusion et au moins 20 minutes après la perfusion si vous avez récemment reçu ce médicament.
+Si vous développez une allergie, vous reconnaîtrez les premiers signes, à savoir des étourdissements, un gonflement du visage/des jambes, un essoufflement, des boutons sur la peau et/ou des démangeaisons. Dans ce cas, vous devez contacter votre médecin ou votre infirmier/ère immédiatement.
+Selon votre réaction allergique, le médecin pourra décider de ralentir ou darrêter votre perfusion. Il/elle peut également mettre en place un traitement anti‑allergique sil le juge nécessaire.
+Si vous avez des questions, demandez conseil à votre médecin ou votre infirmier/ère.
+Groupes particuliers de patients
+Ce médicament peut provoquer ou aggraver une maladie des reins (insuffisance rénale aiguë), une maladie du cur et/ou des vaisseaux sanguins (infarctus du myocarde, accident vasculaire cérébral (y compris ictus), embolie pulmonaire ou thrombose veineuse profonde). Les patients qui souffrent déjà dune maladie ou qui ont certains facteurs de risque doivent faire attention en utilisant ce médicament
+.
+Ainsi, votre médecin surveillera vos reins et/ou votre cur et vos vaisseaux sanguins :
+·
+si vous souffrez déjà dune maladie des reins (insuffisance rénale),
+·
+si vous prenez certains médicaments pouvant être dangereux pour vos reins,
+·
+si vous avez un taux de sucre élevé dans le sang (diabète),
+·
+si vous avez un faible volume de sang dans le corps (hypovolémie),
+·
+si vous êtes en surpoids (obésité),
+·
+si vous êtes âgé(e) de plus de 65 ans,
+·
+si vous souffrez déjà dune maladie du cur ou des vaisseaux sanguins,
+·
+si votre tension artérielle est élevée (hypertension artérielle),
+·
+si vous risquez dêtre immobilisé(e) pour une longue période,
+·
+si vous souffrez dune maladie entraînant une augmentation de l'épaississement de votre sang (sang hypervisqueux).
+Si vous présentez un des facteurs prédisposants ci-dessus, le médecin adaptera la dose et le débit de perfusion auxquels IVheBex, solution pour perfusion est administré.
+IVheBex contient du saccharose et du glucose
+IVheBex contient certains sucres : 5,5 g de saccharose et 1,5 g de glucose pour une dose de 10 000 UI (ou 2 flacons). Ceci doit être pris en considération :
+·
+si vous avez un taux de sucre sanguin élevé (diabète)
+·
+si vous présentez un risque de maladie rénale (insuffisance rénale)
+·
+si votre médecin vous a déjà informé que vous êtes intolérant à certains sucres.
+Discutez-en avec votre médecin avant dutiliser ce médicament. Le médecin pourra décider d'utiliser un autre produit ne contenant pas certains de ces sucres.
+Informations sur la transmission dagents infectieux
+IVheBex est fabriqué à partir de plasma humain (la partie liquide du sang).
+Lorsque des médicaments sont fabriqués à partir de sang ou de plasma humain, certaines mesures sont mises en place afin de prévenir les infections pouvant être transmises aux patients.
+Celles-ci comprennent :
+·
+une sélection rigoureuse par entretien médical des donneurs de sang et de plasma de façon à exclure les donneurs risquant dêtre porteurs dinfections
+·
+le contrôle de chaque don et des mélanges de plasma pour la présence de virus et dagents infectieux.
+·
+un procédé de fabrication avec des étapes capables déliminer ou dinactiver les virus dans le procédé de traitement du sang ou du plasma
+Malgré ces mesures, lorsque des médicaments préparés à partir de sang ou de plasma humain sont administrés, le risque de transmission de maladies infectieuses ne peut être totalement exclu. Ceci sapplique également à tous les virus inconnus ou émergents ou autres types dagents infectieux.
+Les mesures prises pour IVheBex sont considérées comme efficaces pour les virus enveloppés comme le virus de limmunodéficience humaine (VIH,virus du SIDA), le virus de lhépatite B, le virus de lhépatite C et le parvovirus B19.
+Les immunoglobulines nont pas été mises en relation avec des infections dhépatite A ou le parvovirus B19, probablement grâce aux anticorps protecteurs pour ces infections qui sont compris dans le produit.
+Il est fortement recommandé, lors de chaque administration dIVheBex, denregistrer le nom et numéro de lot du produit afin dassurer un suivi des lots utilisés.
+Autres médicaments et IVheBex
+Informez votre médecin ou pharmacien si vous utilisez, avez récemment utilisé ou pourriez utiliser tout autre médicament.
+Diurétiques de l'anse
+Éviter l'utilisation concomitante de diurétiques de l'anse avec IVheBex.
+Effets sur les vaccins
+Lutilisation dimmunoglobulines telles que IVheBex peut atténuer leffet des vaccins contre la rougeole, la rubéole, les oreillons et/ou la varicelle pendant 3 mois. Après avoir reçu des immunoglobulines, il est conseillé dattendre un délai de 3 mois avant de pouvoir recevoir ces vaccins. Dans le cas du vaccin contre la rougeole, il peut être nécessaire dattendre 1 an après une perfusion dimmunoglobulines. Avant toute vaccination, veuillez indiquer à votre médecin que vous êtes traité(e) avec IVheBex.
+Effet sur les tests sanguins
+Certains anticorps dIVheBex peuvent invalider les résultats de certaines analyses de sang (tests sérologiques). Si vous devez réaliser une analyse de sang après avoir reçu IVheBex, veuillez en informer votre médecin ou la personne chargée de prélever votre sang que vous avez reçu ce produit.
+IVheBex avec des aliments, boissons et de lalcool
+Sans objet.
+Grossesse, allaitement et fertilité
+·
+Si vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou planifiez une grossesse, demandez conseil à votre médecin ou pharmacien avant dutiliser ce médicament.
+·
+Il nexiste pas détudes de reproduction avec IVheBex chez lanimal et lexpérience chez la femme enceinte est limitée. Même si aucun effet nocif nest attendu pour le ftus, IVheBex ne doit pas être administré aux femmes enceintes sauf si la nécessité du traitement est clairement établie.
+·
+Les anticorps contenus dans IVheBex passent dans le lait maternel et peuvent contribuer à protéger votre bébé contre certaines infections.
+Sportifs
+Sans objet.
+Conduite de véhicules et utilisation de machines
+Les patients peuvent présenter des réactions (par exemple des étourdissements ou des nausées) pendant le traitement par IVheBex, ce qui risque daffecter la capacité à conduire ou à utiliser des machines. Le cas échéant, vous devez attendre que les réactions disparaissent pour conduire ou utiliser des machines.
+3. COMMENT UTILISER IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion ?
+IVheBex est prescrit et administré par un professionnel de santé.
+Posologie
+La dose recommandée est de
+:
+1.
+10 000 UI (soit 2 flacons) le jour de lintervention, pendant lopération,
+2.
+puis 10 000 UI (soit 2 flacons) tous les jours pendant les 7 jours suivant la transplantation,
+3.
+puis 10 000 UI (soit 2 flacons) à renouveler autant que nécessaire, afin d'assurer une quantité suffisante dans le sang danticorps appelés anticorps anti-HBs.
+Utilisation chez les enfants et les adolescents
+Pour déterminer la dose à utiliser, le médecin calculera la surface corporelle de lenfant en fonction de son poids et de sa taille.
+Mode dadministration
+Avant linjection, ce médicament est préparé par un professionnel de santé. Ce médicament est ensuite injecté dans les veines par perfusion.
+La préparation et la méthode dadministration dIVheBex sont incluses à la fin de cette notice dans la partie réservée aux professionnels de santé.
+Si vous avez utilisé plus de IVHEBEX que vous nauriez dû :
+Sans objet.
+Si vous oubliez dutiliser IVheBex :
+Sans objet.
+Si vous arrêtez dutiliser IVheBex :
+Sans objet.
+Si vous avez dautres questions sur lutilisation de ce médicament, demandez plus dinformations à votre médecin, à votre pharmacien ou à votre infirmier/ère.
+4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+Comme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne surviennent pas systématiquement chez tout le monde.
+Les effets indésirables suivants
+ont été rapportés par déclaration spontanée avec IVheBex :
+·
+Effets généraux :
+une élévation de la température du corps (hyperthermie), des frissons.
+·
+Effets sur les muscles et les os :
+Douleurs au niveau du dos, lombalgie, douleur des articulations (arthralgie) et/ou douleur des muscles (myalgie).
+·
+Effets digestifs :
+des nausées, des vomissements.
+·
+Effets sur le système nerveux :
+des maux de tête.
+·
+Effets sur le système immunitaire :
+des réactions allergiques
+sévères et brutales avec éruption cutanée prurigineuse, gonflement, difficultés respiratoires, accélération du rythme cardiaque, hypotension artérielle et perte de conscience (réaction anaphylactique (incluant le choc)).
+·
+Effets sur le cur et les vaisseaux sanguins :
+une chute de la pression artérielle (hypotension).
+·
+Une maladie grave des reins :
+un cas dinsuffisance rénale aiguë a été observé chez un patient ayant déjà eu une maladie du foie et des reins (syndrome hépatorénal).
+·
+Des réactions d'intolérance
+: parfois liées à un allongement des intervalles entre deux administrations du médicament chez les patients transplantés du foie.
+Les effets indésirables causés par les immunoglobulines humaines normales (en fréquence décroissante) peuvent englober :
+·
+Frissons, céphalées, vertiges, fièvre, vomissements, réactions allergiques, nausées, arthralgie, hypotension et lombalgie modérée.
+·
+Une baisse du nombre de globules rouges due à une dégradation de ces cellules dans les vaisseaux sanguins (réactions hémolytiques réversibles) et (rarement) une anémie hémolytique nécessitant une transfusion.
+·
+(Rarement) une chute brutale de la pression artérielle et, dans des cas isolés, un choc anaphylactique.
+·
+(Rarement) réactions cutanées transitoires (y compris des cas de lupus érythémateux cutané - fréquence indéterminée).
+·
+Réactions thromboemboliques (très rares) telles quune crise cardiaque (infarctus du myocarde), accident vasculaire cérébral, caillots sanguins dans les vaisseaux sanguins des poumons (embolie pulmonaire), caillots sanguins dans les veines (thrombose veineuse profonde).
+·
+Cas d'inflammation temporaire des membranes protectrices recouvrant le cerveau et la moelle épinière (méningite aseptique réversible).
+·
+Des résultats d'analyses sanguines indiquant une altération de la fonction rénale et/ou la survenue d'une insuffisance rénale aïgue.
+·
+Cas de syndrome de détresse respiratoire aigu post-transfusionnel (TRALI Transfusion Related Acute Lung Injury). Cela entraînera une accumulation de liquide dans les espaces aériens des poumons. Vous ressentirez des difficultés respiratoires sévères (détresse respiratoire), une respiration rapide (tachypnée), un taux d'oxygène dans le sang anormalement bas (hypoxie) et une augmentation de la température corporelle (fièvre).
+Si un effet secondaire survient, le débit de perfusion sera diminué ou arrêté.
+Déclaration des effets secondaires
+Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre pharmacien ou à votre infirmier/ère. Ceci sapplique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Vous pouvez également déclarer les effets indésirables directement via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet:
+www.signalement.social-sante.gouv.fr
+/
+En signalant les effets indésirables, vous contribuez à fournir davantage dinformations sur la sécurité du médicament.
+5. COMMENT CONSERVER IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion ?
+Tenir ce médicament hors de la vue et de la portée des enfants.
+Nutilisez pas IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion après la date de péremption indiquée sur létiquette de la boîte et du flacon. La date de péremption fait référence au dernier jour de ce mois.
+A conserver au réfrigérateur (entre 2°C et 8°C). Ne pas congeler.
+Conserver le flacon dans l'emballage extérieur et à l'abri de la lumière.
+Après reconstitution, une utilisation immédiate est recommandée.
+Nutilisez pas IVheBex si vous remarquez une solution trouble ou contenant un dépôt.
+Ne jetez aucun médicament au tout-à-légout ou avec les ordures ménagères. Demandez à votre pharmacien déliminer les médicaments que vous nutilisez plus. Ces mesures contribueront à protéger lenvironnement.
+6. CONTENU DE LEMBALLAGE ET AUTRES INFORMATIONS
+Ce que contient IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion
+·
+La substance active est :
+l'immunoglobuline humaine de l'hépatite B.
+Après reconstitution, un flacon de 100 mL contient 5000 UI d'immunoglobuline humaine de l'hépatite B (correspondant à une concentration de 50 UI/mL).
+·
+Les autres composants sont :
+pour la poudre : saccharose, glycine et glucose monohydraté.
+pour le solvant : eau pour préparations injectables.
+Quest-ce que IVheBex 5000 UI/100 mL, poudre et solvant pour solution pour perfusion et contenu de lemballage extérieur
+IVheBex se présente sous forme dune poudre et d'un flacon de solvant. Après reconstitution, IVheBex est une solution pour perfusion.
+Titulaire de lautorisation de mise sur le marché
+LFB BIOMEDICAMENTS
+ZA de Courtaboeuf
+91940 LES ULIS
+FRANCE
+Tél: + 33 (0)1 69 82 70 04
+E-mail: infomed@lfb.fr
+Exploitant de lautorisation de mise sur le marché
+LFB BIOMEDICAMENTS
+3 Avenue des Tropiques
+ZA de Courtaboeuf
+91940 LES ULIS
+FRANCE
+Fabricant
+LFB BIOMEDICAMENTS
+3 Avenue des Tropiques
+ZA de Courtaboeuf
+91940 LES ULIS
+FRANCE
+Noms du médicament dans les Etats membres de l'Espace Economique Européen
+Ce médicament est autorisé dans les Etats membres de l'Espace Economique Européen sous les noms suivants :
+France, Luxembourg : IVheBex
+[à compléter ultérieurement par le titulaire]
+La dernière date à laquelle cette notice a été révisée est :
+[à compléter ultérieurement par le titulaire]
+Autres
+Des informations détaillées sur ce médicament sont disponibles sur le site Internet de lANSM (France).
+Les informations suivantes sont destinées exclusivement aux professionnels de santé:
+Reconstitution :
+Respecter les règles dasepsie habituelles.
+Ne jamais utiliser les flacons dès la sortie du réfrigérateur.
+Amener les deux flacons (poudre et solvant) à température ambiante.
+Retirer la capsule protectrice du flacon de solvant (eau pour préparations injectables) et du flacon de poudre.
+Désinfecter la surface de chaque bouchon.
+Retirer le capuchon protecteur translucide du système de transfert et insérer à fond le biseau ainsi dégagé au centre du bouchon du flacon de solvant en opérant simultanément un mouvement de rotation.
+Retirer le deuxième capuchon protecteur de l'autre extrémité du système de transfert.
+Maintenir les deux flacons dans une position horizontale (évent vers le haut) et enfoncer rapidement lextrémité libre du biseau au centre du bouchon du flacon de poudre.
+Veiller à ce que le biseau soit toujours immergé dans le solvant pour éviter un cassage précoce du vide.
+Placer immédiatement l'ensemble dans une position verticale, flacon de solvant bien au-dessus du flacon de poudre, de façon à permettre le transfert du solvant vers la poudre.
+Pendant le transfert, diriger le jet de solvant sur toute la surface de la poudre. Veiller à ce que la totalité du solvant soit transférée.
+A la fin du transfert, le vide est automatiquement cassé (air stérile).
+Retirer le flacon vide (solvant) avec le système de transfert.
+Agiter modérément par un mouvement de rotation doux pour éviter la formation de mousse, jusqu'à dissolution complète de la poudre.
+La mise en solution ainsi opérée doit être totale en moins de 15 minutes.
+Le produit reconstitué doit être examiné à lil afin de sassurer quil ne contient pas de particules.
+La solution reconstituée présente une opalescence plus ou moins prononcée.
+Ne pas utiliser de solution présentant un aspect trouble ou contenant un dépôt.
+Ne pas diluer le produit reconstitué.
+Ne pas mélanger avec dautres médicaments.
+Administration :
+Le produit doit être administré immédiatement par voie intraveineuse en une seule fois après reconstitution.
+·
+Equiper le flacon contenant la solution reconstituée avec le nécessaire de perfusion muni dun filtre non stérilisant de 15 µm.
+·
+Le débit sera adapté en fonction de la tolérance clinique, sans dépasser un débit de 1 mL/kg/h pendant la première demi-heure, puis en augmentant progressivement jusqu'à un maximum de 4 mL/kg/h, en cas de bonne tolérance.
+Certains effets indésirables peuvent être associés au débit dadministration. Le débit doit être scrupuleusement observé et les patients doivent rester sous surveillance pendant toute la durée de la perfusion afin de détecter déventuels signes dintolérance. Dans ce cas, on peut soit diminuer le débit jusqu'à leur disparition, soit arrêter la perfusion.
+Dosage (en compléments des informations de la rubrique 3.Comment utiliser IVheBex ?) :
+·
+La dose est à renouveler afin dassurer un taux sérique danticorps anti-HBs de 100 à 150UI/l chez les patients négatifs à la recherche dADN du virus de lhépatite B et de 500 UI/l chez les patients positifs à cette recherche.
+·
+Chez lenfant :
+la dose est de 10 000 UI/1,73 m
+2
+de surface corporelle
+Conservation après reconstitution
+Après reconstitution, une utilisation immédiate est recommandée. Toutefois la stabilité physico-chimique de la solution a été démontrée pendant 24 heures à une température de 25°C.

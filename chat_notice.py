@@ -79,7 +79,7 @@ Question : {question}
 [/INST]
 """
     payload = {
-        "model": "nous-hermes2",
+        "model": "llama3",
         "prompt": prompt,
         "temperature": 0.2,
         "top_p": 0.9,

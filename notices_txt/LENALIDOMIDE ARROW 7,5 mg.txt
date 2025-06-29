@@ -1,0 +1,525 @@
+Dénomination du médicament
+LENALIDOMIDE ARROW 7,5 mg, gélule
+Lénalidomide
+Encadré
+Veuillez lire attentivement cette notice avant de prendre ce médicament car elle contient des informations importantes pour vous.
+·
+Gardez cette notice. Vous pourriez avoir besoin de la relire.
+·
+Si vous avez dautres questions, interrogez votre médecin ou votre pharmacien.
+·
+Ce médicament vous a été personnellement prescrit. Ne le donnez pas à dautres personnes. Il pourrait leur être nocif, même si les signes de leur maladie sont identiques aux vôtres.
+·
+Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin ou votre pharmacien. Ceci sapplique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice.
+Voir rubrique 4.
+Que contient cette notice ?
+1. Qu'est-ce que LENALIDOMIDE ARROW 7,5 mg, gélule et dans quels cas est-il utilisé ?
+2. Quelles sont les informations à connaître avant de prendre LENALIDOMIDE ARROW 7,5 mg, gélule ?
+3. Comment prendre LENALIDOMIDE ARROW 7,5 mg, gélule ?
+4. Quels sont les effets indésirables éventuels ?
+5. Comment conserver LENALIDOMIDE ARROW 7,5 mg, gélule ?
+6. Contenu de lemballage et autres informations.
+1. QUEST-CE QUE LENALIDOMIDE ARROW 7,5 mg, gélule ET DANS QUELS CAS EST-IL UTILISE ?
+Classe pharmacothérapeutique : autres immunosuppresseurs - code ATC : L04AX04
+LENALIDOMIDE ARROW contient la substance active « lénalidomide ». Il appartient à un groupe de médicaments qui modifient le fonctionnement de votre système immunitaire.
+Dans quels cas LENALIDOMIDE ARROW 7,5 mg, gélule est-il utilisé
+LENALIDOMIDE ARROW est utilisé chez les patients adultes dans le traitement :
+·
+du myélome multiple ;
+·
+des syndromes myélodysplasiques ;
+·
+du lymphome à cellules du manteau ;
+·
+du lymphome folliculaire.
+Myélome multiple
+Le myélome multiple est un type de cancer touchant un certain type de cellules sanguines appelées plasmocytes. Ces cellules saccumulent dans la moelle osseuse et se multiplient et deviennent incontrôlées. Cela peut entraîner une atteinte des os et des reins.
+En général, le myélome multiple ne peut pas être guéri. Cependant, les signes et symptômes peuvent régresser de façon importante ou disparaître pendant une certaine période. Cela est appelé une « rémission ».
+Myélome multiple non préalablement traité - chez les patients qui ont reçu une greffe de moelle osseuse
+Dans cette indication, LENALIDOMIDE ARROW est utilisé seul, comme traitement dentretien, après une récupération adéquate des patients à la suite dune greffe de moelle osseuse.
+Myélome multiple non préalablement traité - chez les patients qui ne peuvent pas être traités par une greffe de moelle osseuse
+LENALIDOMIDE ARROW est pris avec d'autres médicaments. Ceux-ci peuvent être :
+·
+un médicament de chimiothérapie appelé « bortézomib » ;
+·
+un médicament anti-inflammatoire appelé « dexaméthasone » ;
+·
+un médicament de chimiothérapie appelé « melphalan » et ;
+·
+un médicament anti-inflammatoire appelé « prednisone ».
+Vous prendrez ces autres médicaments au début du traitement et vous continuerez ensuite en prenant LENALIDOMIDE ARROW seul.
+Si vous êtes âgé(e) de 75 ans ou plus ou si vous présentez des troubles rénaux modérés à sévères, votre médecin effectuera une évaluation attentive avant le début du traitement.
+Myélome multiple - chez les patients qui ont déjà été traités
+LENALIDOMIDE ARROW est pris en association avec un médicament anti-inflammatoire appelé « dexaméthasone ».
+LENALIDOMIDE ARROW peut empêcher l'aggravation des signes et symptômes du myélome multiple. Il a également été démontré qu'il retarde la récidive du myélome multiple après le traitement.
+Syndromes myélodysplasiques (SMD)
+Le terme SMD désigne un ensemble de nombreuses maladies différentes du sang et de la moelle osseuse. Les cellules sanguines deviennent anormales et ne fonctionnent pas correctement. Les patients peuvent présenter différents signes et symptômes, notamment un taux faible de globules rouges (anémie), un besoin de transfusions sanguines et un risque dinfection.
+LENALIDOMIDE ARROW est utilisé seul pour traiter les patients adultes chez lesquels un SMD a été diagnostiqué et lorsque toutes les conditions ci-dessous sont remplies :
+·
+vous avez besoin de transfusions sanguines régulières pour corriger un taux faible de globules rouges (« anémie avec dépendance transfusionnelle ») ;
+·
+vous présentez une anomalie des cellules dans la moelle osseuse appelée « anomalie cytogénétique de délétion 5q isolée ». Cela signifie que votre organisme ne fabrique pas assez de cellules sanguines saines ;
+·
+dautres traitements qui ont été administrés préalablement, ne sont pas adaptés ou ne sont pas suffisamment efficaces.
+LENALIDOMIDE ARROW peut augmenter le nombre de globules rouges normaux produits par lorganisme en diminuant le nombre de cellules anormales :
+·
+cela peut réduire le nombre de transfusions sanguines nécessaires. Il est possible que le recours aux transfusions ne soit plus nécessaire.
+Lymphome à cellules du manteau (LCM)
+Le LCM est un cancer dune partie du système immunitaire (le tissu lymphoïde). Il touche un type de globules blancs appelés lymphocytes B ou cellules B. Le LCM est une maladie dans laquelle les lymphocytes B se multiplient de façon incontrôlée et saccumulent dans le tissu lymphoïde, la moelle osseuse ou le sang.
+LENALIDOMIDE ARROW est utilisé seul pour traiter les patients adultes qui ont été préalablement traités avec dautres médicaments.
+Lymphome folliculaire (LF)
+Le LF est un cancer à progression lente qui touche les lymphocytes B, un type de globules blancs qui aident votre organisme à lutter contre les infections. En cas de LF, un nombre excessif de ces lymphocytes B peut saccumuler dans le sang, la moelle osseuse, les ganglions lymphatiques et la rate.
+LENALIDOMIDE ARROW est pris en association avec un autre médicament appelé « rituximab » pour le traitement des patients adultes atteints de lymphome folliculaire préalablement traité.
+Comment agit LENALIDOMIDE ARROW 7,5 mg, gélule
+LENALIDOMIDE ARROW agit en modifiant le fonctionnement du système immunitaire de l'organisme et en attaquant directement le cancer. Il agit de plusieurs façons différentes :
+·
+en arrêtant le développement des cellules cancéreuses ;
+·
+en arrêtant la croissance des vaisseaux sanguins dans la tumeur ;
+·
+en stimulant une partie du système immunitaire pour attaquer les cellules cancéreuses.
+2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT DE PRENDRE LENALIDOMIDE ARROW 7,5 mg, gélule ?
+Vous devez lire la notice de tous les médicaments pris en association avec LENALIDOMIDE ARROW avant le début du traitement par LENALIDOMIDE ARROW.
+Ne prenez jamais LENALIDOMIDE ARROW 7,5 mg, gélule :
+·
+si vous êtes enceinte, si vous pensez que vous pourriez lêtre ou si vous prévoyez de lêtre,
+car un effet nocif du lénalidomide est attendu pour l'enfant à naître
+(voir la rubrique 2 « Grossesse, allaitement et contraception  Informations pour les femmes et les hommes ») ;
+·
+si vous êtes en âge de tomber enceinte, sauf si vous prenez toutes les mesures nécessaires pour ne pas lêtre (voir la rubrique 2 « Grossesse, allaitement et contraception  Informations pour les femmes et les hommes »). Si vous êtes en âge de tomber enceinte, votre médecin notera à chaque prescription que les mesures nécessaires ont été prises et vous en donnera confirmation ;
+·
+si vous êtes allergique au lénalidomide ou à lun des autres composants contenus dans ce médicament, mentionnés dans la rubrique 6. Si vous pensez que vous pourriez être allergique, demandez conseil à votre médecin.
+Si lune de ces situations vous concerne, ne prenez pas LENALIDOMIDE ARROW. Adressez-vous à votre médecin en cas de doute.
+Avertissements et précautions
+Adressez-vous à votre médecin, pharmacien ou infirmier/ère avant de prendre LENALIDOMIDE ARROW 7,5 mg, gélule si :
+·
+vous avez des antécédents de caillots sanguins. Le risque de formation de caillots sanguins dans les veines et les artères est augmenté pendant le traitement ;
+·
+vous présentez des signes d'infection tels que toux ou fièvre ;
+·
+vous avez ou avez eu dans le passé une infection virale, en particulier hépatite B, varicelle, zona ou infection par le VIH. En cas de doute, adressez-vous à votre médecin. Le traitement par LENALIDOMIDE ARROW peut provoquer une réactivation du virus chez les patients qui en sont porteurs. Cela entraîne une récidive de l'infection. Votre médecin doit déterminer si vous avez eu dans le passé une hépatite B ;
+·
+vous avez des problèmes de reins ; votre médecin pourra adapter votre dose de LENALIDOMIDE ARROW ;
+·
+vous avez des antécédents de crise cardiaque
+(infarctus du myocarde),
+si vous avez déjà développé un caillot sanguin ou si vous fumez, si vous avez une pression artérielle élevée (hypertension) ou un taux de cholestérol élevé ;
+·
+vous avez développé une réaction allergique pendant un traitement par le thalidomide (un autre médicament utilisé dans le traitement du myélome multiple), par exemple éruption cutanée, démangeaisons, gonflement (dème), vertiges ou difficultés à respirer ;
+·
+vous avez déjà présenté simultanément plusieurs des symptômes suivants : éruption cutanée étendue, rougeurs cutanées, température élevée, symptômes ressemblant à ceux de la grippe, augmentation des enzymes hépatiques, anomalies sanguines (éosinophilie), augmentation du volume des ganglions lymphatiques - ce sont des signes de réaction cutanée sévère appelée « réaction médicamenteuse accompagnée dune éosinophilie et de symptômes systémiques », appelée également syndrome DRESS ou syndrome dhypersensibilité médicamenteuse (voir également la rubrique 4 « Quels sont les effets indésirables éventuels ? »).
+Si lune de ces situations vous concerne, adressez-vous à votre médecin, pharmacien ou infirmier/ère avant de commencer le traitement.
+À tout moment pendant ou après votre traitement, informez immédiatement votre médecin ou votre infirmier/ère si vous :
+·
+faites lexpérience dune vision floue ou double, ou dune perte de vision, dune difficulté à parler, dune faiblesse dans un bras ou une jambe, dun changement dans la façon dont vous marchez ou de problèmes d'équilibre, dun engourdissement persistant, dune diminution ou dune perte de sensation, dune perte de mémoire ou de confusion. Tous ces symptômes peuvent être révélateurs d'une maladie du cerveau grave et potentiellement fatale connue sous le nom de leuco-encéphalopathie multifocale progressive (LEMP). Si vous aviez ces symptômes avant le traitement par lénalidomide, informez votre médecin de toute modification de ces symptômes ;
+·
+faites lexpérience dun essoufflement, dune fatigue, détourdissements, dune douleur thoracique, dune accélération du rythme cardiaque ou dun gonflement au niveau des jambes ou des chevilles. Ces symptômes peuvent être révélateurs dune maladie grave appelée hypertension pulmonaire (voir rubrique 4).
+Examens et contrôles
+Avant et pendant le traitement par LENALIDOMIDE ARROW, vous ferez régulièrement des analyses de sang car LENALIDOMIDE ARROW peut faire chuter le nombre de cellules sanguines qui contribuent à lutter contre les infections (globules blancs) et de cellules qui font coaguler le sang (plaquettes).
+Votre médecin vous demandera de faire réaliser une analyse de sang :
+·
+avant le traitement ;
+·
+chaque semaine pendant les 8 premières semaines de traitement ;
+·
+puis au moins une fois par mois par la suite.
+Vous pourriez être évalué(e) pour détecter des signes de problèmes cardiopulmonaires avant et pendant le traitement par lénalidomide.
+Pour les patients présentant un syndrome myélodysplasique (SMD) et prenant LENALIDOMIDE ARROW
+Si vous présentez un SMD, vous pouvez avoir un risque plus élevé de développer une maladie plus avancée appelée leucémie aiguë myéloblastique (LAM). En outre, leffet du lénalidomide sur le risque de développer une LAM nest pas connu. Votre médecin pourra donc demander des examens afin de rechercher des signes permettant de mieux prédire la probabilité que vous développiez une LAM pendant votre traitement par LENALIDOMIDE ARROW.
+Pour les patients présentant un lymphome à cellules du manteau (LCM) et prenant LENALIDOMIDE ARROW
+Votre médecin vous demandera de faire réaliser une analyse de sang :
+·
+avant le traitement ;
+·
+chaque semaine pendant les 8 premières semaines de traitement (2 cycles) ;
+·
+puis toutes les 2 semaines pendant les cycles 3 et 4 (voir rubrique 3 « Cycle de traitement » pour des informations plus détaillées) ;
+·
+lanalyse de sang sera ensuite effectuée au début de chaque cycle et ;
+·
+au minimum tous les mois.
+Pour les patients présentant un lymphome folliculaire (LF) et prenant LENALIDOMIDE ARROW
+Votre médecin vous demandera de faire réaliser une analyse de sang :
+·
+avant le traitement ;
+·
+chaque semaine pendant les 3 premières semaines de traitement (1 cycle) ;
+·
+puis toutes les 2 semaines pendant les cycles 2 à 4 (voir rubrique 3 « Cycle de traitement » pour des informations plus détaillées) ;
+·
+lanalyse de sang sera ensuite effectuée au début de chaque cycle et ;
+·
+au minimum tous les mois.
+Votre médecin pourra demander un examen afin de déterminer si vous avez une charge tumorale totale élevée dans tout le corps, y compris dans la moelle osseuse. Cela peut provoquer une maladie dans laquelle la destruction des cellules cancéreuses entraîne des taux anormaux de substances chimiques dans le sang, ce qui peut provoquer une insuffisance rénale (cette maladie est appelée « syndrome de lyse tumorale »).
+Votre médecin pourra également vous examiner pour détecter des modifications de votre peau telles que des taches rouges ou des éruptions cutanées.
+Votre médecin peut décider d'ajuster la dose de LENALIDOMIDE ARROW que vous prenez ou d'arrêter le traitement en fonction des résultats des analyses de sang et de votre état général. Si vous présentez un myélome multiple récemment diagnostiqué, votre médecin pourra également évaluer votre traitement en fonction de votre âge et des autres maladies que vous présentez déjà.
+Dons de sang
+Vous ne devez pas faire des dons de sang pendant le traitement et pendant au moins 7 jours après la fin du traitement.
+Enfants et adolescents
+Lutilisation de LENALIDOMIDE ARROW nest pas recommandée chez les enfants et adolescents de moins de 18 ans.
+Patients âgés et patients ayant des troubles rénaux
+Si vous êtes âgé(e) de 75 ans ou plus ou que vous avez des troubles rénaux modérés à sévères, votre médecin effectuera une évaluation attentive avant le début du traitement.
+Autres médicaments et LENALIDOMIDE ARROW 7,5 mg, gélule
+Informez votre médecin ou pharmacien si vous prenez, avez récemment pris ou pourriez prendre tout autre médicament, car LENALIDOMIDE ARROW peut modifier la façon dont certains médicaments agissent. De même, certains autres médicaments peuvent modifier la façon dont LENALIDOMIDE ARROW agit.
+En particulier, prévenez votre médecin ou votre infirmier/ère si vous prenez lun des médicaments suivants :
+·
+certains médicaments utilisés pour éviter une grossesse tels que les contraceptifs oraux, car ils pourraient ne plus être efficaces ;
+·
+certains médicaments utilisés pour traiter les problèmes cardiaques, tels que la digoxine ;
+·
+certains médicaments utilisés pour fluidifier le sang, tels que la warfarine.
+Grossesse, allaitement et contraception  Informations pour les femmes et les hommes
+Grossesse
+Pour les femmes prenant LENALIDOMIDE ARROW
+·
+vous ne devez pas prendre LENALIDOMIDE ARROW si vous êtes enceinte, car un effet nocif de ce médicament est attendu pour l'enfant à naître ;
+·
+vous ne devez pas tomber enceinte pendant que vous prenez LENALIDOMIDE ARROW. Vous devez donc utiliser un moyen de contraception efficace si vous êtes une femme en âge de tomber enceinte (voir la section « Contraception ») ;
+·
+en cas de grossesse pendant votre traitement par LENALIDOMIDE ARROW, vous devez arrêter le traitement et informer immédiatement votre médecin.
+Pour les hommes prenant LENALIDOMIDE ARROW
+·
+si votre partenaire tombe enceinte pendant que vous prenez LENALIDOMIDE ARROW, vous devez informer votre médecin immédiatement. Il est recommandé que votre partenaire consulte un médecin ;
+·
+vous devez également utiliser un moyen de contraception efficace (voir la section « Contraception »).
+Allaitement
+Vous ne devez pas allaiter pendant que vous prenez LENALIDOMIDE ARROW car on ignore si le lénalidomide passe dans le lait maternel.
+Contraception
+Pour les femmes prenant LENALIDOMIDE ARROW
+Avant de débuter le traitement, vérifiez auprès de votre médecin si vous êtes en âge de tomber enceinte, même si cela vous semble improbable.
+Si vous êtes en âge de tomber enceinte :
+·
+Vous devrez réaliser un test de grossesse sous le contrôle de votre médecin (avant le traitement, au moins toutes les 4 semaines pendant le traitement et au moins 4 semaines après la fin du traitement) sauf s'il est confirmé que les trompes de Fallope ont été sectionnées et oblitérées afin d'empêcher les ovules darriver dans l'utérus (stérilisation tubaire).
+ET
+·
+Vous devrez utiliser une méthode de contraception efficace. Cette contraception doit être débutée au moins 4 semaines avant le début du traitement, poursuivie pendant toute la durée du traitement et durant au moins 4 semaines après l'arrêt du traitement. Votre médecin vous conseillera sur les moyens de contraception adaptés à votre cas.
+Pour les hommes prenant LENALIDOMIDE ARROW
+LENALIDOMIDE ARROW passe dans le sperme humain. Si votre partenaire est enceinte ou susceptible de le devenir et qu'elle n'utilise pas un moyen de contraception efficace, vous devez utiliser des préservatifs pendant le traitement et pendant au moins 7 jours après la fin du traitement, même si vous avez subi une vasectomie. Vous ne devez pas faire des dons de sperme pendant le traitement et pendant au moins 7 jours après la fin du traitement.
+Conduite de véhicules et utilisation de machines
+Il est déconseillé de conduire ou d'utiliser des machines si vous ressentez des étourdissements, une fatigue, de la somnolence, des vertiges ou si votre vision est trouble après avoir pris LENALIDOMIDE ARROW.
+LENALIDOMIDE ARROW 7,5 mg, gélule contient du lactose et du sodium
+Si votre médecin vous a informé(e) d'une intolérance à certains sucres, contactez-le avant de prendre ce médicament.
+Ce médicament contient moins de 1 mmol (23 mg) de sodium par gélule, cest-à-dire quil est essentiellement « sans sodium ».
+3. COMMENT PRENDRE LENALIDOMIDE ARROW 7,5 mg, gélule ?
+LENALIDOMIDE ARROW doit vous être prescrit par un médecin expérimenté dans le traitement du myélome multiple, des SMD, du LCM ou du LF :
+·
+dans le traitement des patients atteints de myélome multiple qui ne peuvent pas recevoir de greffe de moelle osseuse ou qui ont reçu dautres traitements auparavant, le lénalidomide est utilisé avec dautres médicaments (voir la rubrique 1 « Dans quels cas LENALIDOMIDE ARROW 7,5 mg, gélule est-il utilisé ? ») ;
+·
+dans le traitement des patients atteints de myélome multiple qui ont reçu une greffe de moelle osseuse ou des patients atteints de SMD ou de LCM, LENALIDOMIDE ARROW est utilisé seul ;
+·
+dans le traitement des patients atteints de lymphome folliculaire, LENALIDOMIDE ARROW est utilisé avec un autre médicament appelé « rituximab ».
+Veillez toujours à prendre LENALIDOMIDE ARROW en suivant exactement les indications de votre médecin. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+Si vous prenez LENALIDOMIDE ARROW en association avec d'autres médicaments, reportez-vous aux notices de ces médicaments pour plus d'informations sur leur utilisation et leurs effets.
+Cycle de traitement
+LENALIDOMIDE ARROW est pris certains jours de périodes de 3 semaines (21 jours) :
+·
+chaque période de 21 jours est appelée un « cycle de traitement » ;
+·
+selon le jour du cycle, vous prendrez un ou plusieurs médicaments. Certains jours toutefois, vous ne prendrez aucun des médicaments ;
+·
+après avoir terminé chaque cycle de 21 jours, vous devrez commencer un nouveau « cycle » pendant les 21 jours suivants.
+OU
+LENALIDOMIDE ARROW est pris certains jours de périodes de 4 semaines (28 jours) :
+·
+chaque période de 28 jours est appelée un « cycle de traitement » ;
+·
+selon le jour du cycle, vous prendrez un ou plusieurs médicaments. Certains jours toutefois, vous ne prendrez aucun des médicaments ;
+·
+après avoir terminé chaque cycle de 28 jours, vous devrez commencer un nouveau « cycle » pendant les 28 jours suivants.
+Dose de LENALIDOMIDE ARROW 7,5 mg, gélule
+Avant le début du traitement, votre médecin vous dira :
+·
+quelle dose de LENALIDOMIDE ARROW vous devez prendre ;
+·
+quelle dose des autres médicaments vous devez prendre en association avec LENALIDOMIDE ARROW le cas échéant ;
+·
+quels jours de votre cycle de traitement vous devez prendre chaque médicament.
+Comment et quand prendre LENALIDOMIDE ARROW 7,5 mg, gélule ?
+·
+Vous devez avaler les gélules entières, de préférence avec de l'eau.
+·
+Nouvrez pas les gélules, ne les cassez pas et ne les mâchez pas. Si la poudre dune gélule de LENALIDOMIDE ARROW ouverte entre en contact avec la peau, lavez immédiatement et abondamment la peau au savon et à leau.
+·
+Les professionnels de santé, les aidants et les membres de la famille doivent porter des gants jetables pour manipuler la plaquette ou la gélule. Les gants doivent ensuite être retirés avec précaution afin déviter une exposition cutanée, placés dans un sac plastique en polyéthylène à fermeture hermétique et éliminés conformément à la réglementation en vigueur. Les mains doivent ensuite être soigneusement lavées au savon et à leau. Les femmes enceintes ou qui pensent lêtre ne doivent pas manipuler la plaquette ou la gélule.
+·
+Les gélules peuvent être prises au cours ou en dehors des repas.
+·
+Vous devez prendre LENALIDOMIDE ARROW à peu près à heure fixe les jours prévus de chaque cycle.
+Comment prendre LENALIDOMIDE ARROW 7,5 mg, gélule ?
+Pour sortir la gélule de la plaquette :
+·
+appuyez seulement sur une extrémité de la gélule pour la pousser à travers la pellicule d'aluminium ;
+·
+n'exercez pas de pression sur le centre de la gélule car cela peut provoquer sa rupture.
+Durée du traitement par LENALIDOMIDE ARROW 7,5 mg, gélule
+LENALIDOMIDE ARROW est utilisé en suivant des cycles de traitement d'une durée de 21 ou 28 jours chacun (voir la section « Cycle de traitement » ci-dessus). Vous devez poursuivre les cycles de traitement jusqu'à ce que votre médecin vous dise d'arrêter.
+Si vous avez pris plus de LENALIDOMIDE ARROW 7,5 mg, gélule que vous nauriez dû
+Si vous avez pris plus de LENALIDOMIDE ARROW que ce qui vous a été prescrit, prévenez immédiatement votre médecin.
+Si vous oubliez de prendre LENALIDOMIDE ARROW 7,5 mg, gélule
+Si vous avez oublié de prendre LENALIDOMIDE ARROW à l'heure habituelle et
+·
+si moins de 12 heures se sont écoulées - prenez la gélule immédiatement ;
+·
+si plus de 12 heures se sont écoulées - ne prenez pas la gélule. Prenez la gélule suivante à l'heure habituelle le lendemain.
+Si vous arrêtez de prendre LENALIDOMIDE ARROW 7,5 mg, gélule
+Sans objet.
+Si vous avez d'autres questions sur l'utilisation de ce médicament, demandez plus d'informations à votre médecin ou à votre pharmacien.
+4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+Comme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne surviennent pas systématiquement chez tout le monde.
+Arrêtez de prendre LENALIDOMIDE ARROW et consultez immédiatement un médecin si vous remarquez lun des effets indésirables graves suivants  un traitement médical durgence pourrait être nécessaire :
+·
+urticaire, éruptions cutanées, gonflement des yeux, de la bouche ou du visage, difficultés à respirer ou démangeaisons, qui peuvent être des symptômes de formes graves de réaction allergiques appelées angidème et réaction anaphylactique ;
+·
+réaction allergique grave qui peut débuter sous forme déruption cutanée sur une seule zone, mais qui progresse avec un décollement de la peau sétendant à tout le corps (syndrome de Stevens-Johnson et/ou nécrolyse épidermique toxique) ;
+·
+éruption cutanée étendue, fièvre élevée, augmentations des enzymes hépatiques, anomalies du sang (éosinophilie), augmentation du volume des ganglions lymphatiques et atteinte dautres organes (réaction médicamenteuse accompagnée dune éosinophilie et de symptômes systémiques, appelée également syndrome DRESS ou syndrome dhypersensibilité médicamenteuse). Voir également la rubrique 2.
+Informez immédiatement votre médecin si vous remarquez lun des effets indésirables graves suivants :
+·
+fièvre, frissons, mal de gorge, toux, aphtes ou autres symptômes dinfection, y compris dans le sang (sepsis) ;
+·
+saignement ou ecchymose (bleu) en labsence de blessure ;
+·
+douleur dans la poitrine ou la jambe ;
+·
+essoufflement ;
+·
+douleurs osseuses, faiblesse musculaire, confusion ou fatigue pouvant être la conséquence dun taux élevé de calcium dans le sang.
+LENALIDOMIDE ARROW
+peut diminuer le nombre des globules blancs qui sont des cellules luttant contre les infections, ainsi que celui des cellules sanguines qui contribuent à faire coaguler le sang (les plaquettes), ce qui peut entraîner des problèmes de saignements, comme des saignements de nez et des ecchymoses (bleus).
+LENALIDOMIDE ARROW peut également entraîner la formation de caillots sanguins dans les veines (thrombose).
+Autres effets indésirables
+Il est important de noter quun faible nombre de patients peut développer dautres types de cancers et il est possible que ce risque soit majoré en cas de traitement par LENALIDOMIDE ARROW. Par conséquent, votre médecin devra évaluer attentivement le bénéfice et le risque sil vous prescrit LENALIDOMIDE ARROW.
+Effets indésirables très fréquents (pouvant affecter plus de 1 patient sur 10) :
+·
+chute du nombre de globules rouges, ce qui peut provoquer une anémie entraînant fatigue et faiblesse ;
+·
+éruptions cutanées, démangeaisons ;
+·
+crampes musculaires, faiblesse musculaire, douleurs musculaires, douleurs osseuses, douleurs articulaires, douleurs dorsales, douleurs dans les extrémités ;
+·
+gonflement généralisé, y compris gonflement des bras et des jambes ;
+·
+faiblesse, fatigue ;
+·
+fièvre et symptômes grippaux, notamment fièvre, douleurs musculaires, maux de tête, douleur dans l'oreille, toux et frissons ;
+·
+engourdissement, fourmillements ou sensation de brûlure de la peau, douleurs aux mains ou aux pieds, vertiges, tremblements ;
+·
+diminution de lappétit, modifications du goût ;
+·
+augmentation de la douleur, de la taille de la tumeur, ou rougeur autour de la tumeur ;
+·
+perte de poids ;
+·
+constipation, diarrhée, nausées, vomissements, douleur gastrique, brûlures destomac ;
+·
+faible taux de potassium ou de calcium et/ou de sodium dans le sang ;
+·
+fonction thyroïdienne inférieure à ce quelle devrait être ;
+·
+douleur dans la jambe (pourrait être un signe de thrombose), douleur dans la poitrine ou essoufflement (peut être un signe de la présence de caillots de sang dans les poumons, appelée embolie pulmonaire) ;
+·
+infections de tous types, y compris infection des sinus qui entourent le nez, infection des poumons et des voies respiratoires supérieures ;
+·
+essoufflement ;
+·
+vision trouble ;
+·
+opacification de lil (cataracte) ;
+·
+problèmes rénaux incluant fonction rénale diminuée ou incapacité des reins à maintenir une fonction normale ;
+·
+anomalies des analyses biologiques du foie ;
+·
+augmentation des taux denzymes hépatiques ;
+·
+modification dune protéine présente dans le sang qui peut provoquer un gonflement des artères (vascularite) ;
+·
+augmentation du taux de sucre dans le sang (diabète) ;
+·
+diminution du taux de sucre dans le sang ;
+·
+maux de tête ;
+·
+saignements de nez ;
+·
+peau sèche ;
+·
+dépression, modifications de lhumeur, troubles du sommeil ;
+·
+toux ;
+·
+baisse de la pression artérielle ;
+·
+vague sensation de gêne corporelle, sensation de mal-être ;
+·
+ulcérations dans la bouche, bouche sèche ;
+·
+déshydratation.
+Effets indésirables fréquents (pouvant affecter jusqu'à 1 patient sur 10) :
+·
+destruction des globules rouges (anémie hémolytique) ;
+·
+certains types de cancers de la peau ;
+·
+saignement des gencives, de lestomac ou des intestins ;
+·
+augmentation de la pression artérielle, battements de cur lents, rapides ou irréguliers ;
+·
+augmentation dune substance provenant de la destruction normale ou anormale des globules rouges ;
+·
+augmentation dun type de protéine qui est un signe dinflammation dans lorganisme ;
+·
+coloration plus foncée de la peau, coloration anormale de la peau résultant des saignements se produisant sous la peau, généralement dus à des ecchymoses (bleus) ; formation de vésicules remplies de sang sur la peau ; ecchymoses (bleus) ;
+·
+augmentation du taux dacide urique dans le sang ;
+·
+éruptions cutanées, rougeur de la peau, fissures sur la peau, présence de squames sur la peau ou peau qui pèle, urticaire ;
+·
+augmentation de la transpiration, sueurs nocturnes ;
+·
+difficulté à avaler, mal de gorge, altération de la qualité de la voix ou changements de voix ;
+·
+nez qui coule ;
+·
+production durine plus importante ou plus faible quhabituellement ou difficulté à contrôler les mictions ;
+·
+présence de sang dans les urines ;
+·
+essoufflement, en particulier au moment de sallonger (pouvant être le symptôme dune insuffisance cardiaque) ;
+·
+difficulté à avoir une érection ;
+·
+accident vasculaire cérébral, évanouissement, vertige (problème au niveau de loreille interne, avec pour conséquence la sensation que tout tourne autour de soi), perte de connaissance temporaire ;
+·
+douleur dans la poitrine irradiant vers les bras, le cou, la mâchoire, le dos ou lestomac, sueur et essoufflement, nausées ou vomissements, pouvant être les signes dune crise cardiaque (infarctus du myocarde) ;
+·
+faiblesse musculaire, manque dénergie ;
+·
+douleur dans le cou, douleur dans la poitrine ;
+·
+frissons ;
+·
+gonflement des articulations ;
+·
+ralentissement ou blocage de lécoulement de la bile à partir du foie ;
+·
+baisse des taux de phosphate ou de magnésium dans le sang ;
+·
+difficultés pour parler ;
+·
+atteinte hépatique ;
+·
+troubles de léquilibre, difficulté à se mouvoir ;
+·
+surdité, bourdonnements dans les oreilles (acouphènes) ;
+·
+douleurs dorigine neurologique, sensations anormales désagréables, en particulier au toucher ;
+·
+surcharge en fer ;
+·
+soif ;
+·
+confusion ;
+·
+mal de dents ;
+·
+chute pouvant être à lorigine de fractures.
+Effets indésirables peu fréquents (pouvant affecter jusquà 1 patient sur 100) :
+·
+saignements dans le crâne ;
+·
+problèmes de circulation ;
+·
+perte de vision ;
+·
+perte de désir sexuel (libido) ;
+·
+urine émise en quantité importante avec douleur osseuse et faiblesse, pouvant être des signes dune maladie des reins (syndrome de Fanconi) ;
+·
+coloration jaune de la peau, des membranes ou des yeux (ictère ou « jaunisse »), selles claires, urines sombres, démangeaisons de la peau, éruption cutanée, douleur au niveau de lestomac ou ballonnements, qui peuvent être des symptômes datteinte du foie (affection hépatique) ;
+·
+douleur abdominale, ballonnement ou diarrhée, pouvant être des signes dinflammation du gros intestin (appelée colite ou caecite) ;
+·
+atteinte des cellules rénales (appelée nécrose tubulaire rénale) ;
+·
+modifications de la couleur de la peau, sensibilité à la lumière du soleil ;
+·
+syndrome de lyse tumorale  des complications métaboliques peuvent survenir pendant le traitement du cancer et même parfois sans traitement. Ces complications sont causées par les produits de dégradation des cellules cancéreuses qui sont détruites. Elles peuvent inclure : des modifications du bilan sanguin ; taux élevés de potassium, de phosphore, dacide urique et faibles taux de calcium entraînant des modifications de la fonction rénale et du rythme cardiaque, des convulsions et dans certains cas le décès ;
+·
+augmentation de la tension artérielle dans les vaisseaux sanguins qui alimentent les poumons (hypertension pulmonaire).
+Effets indésirables de fréquence indéterminée (la fréquence ne peut être estimée sur la base des données disponibles) :
+·
+douleur soudaine ou douleur légère allant en s'intensifiant, dans le haut de lestomac et/ou dans le dos, persistant plusieurs jours et pouvant s'accompagner de nausées, vomissements, fièvre et d'un pouls rapide. Ces symptômes peuvent être dus à linflammation du pancréas ;
+·
+respiration sifflante, essoufflement ou toux sèche, pouvant être le signe de linflammation du tissu pulmonaire ;
+·
+de rares cas de destruction du tissu musculaire (douleur, faiblesse ou gonflement musculaires) pouvant entraîner des troubles rénaux (« rhabdomyolyse ») ont été observés, dont certains lorsque le lénalidomide est administré avec une statine (un type de médicament utilisé pour faire diminuer le taux de cholestérol) ;
+·
+affection de la peau causée par linflammation de petits vaisseaux sanguins, accompagnée de douleurs articulaires et de fièvre (vascularite leucocytoclasique) ;
+·
+perforation de la paroi de l'estomac ou de l'intestin. Cela peut entraîner une infection très grave. Informez votre médecin si vous présentez des douleurs destomac intenses, de la fièvre, des nausées, des vomissements, du sang dans les selles ou des modifications des selles ;
+·
+infections virales, y compris zona (une maladie virale qui provoque une éruption cutanée douloureuse avec des vésicules) et récidive de l'hépatite B (qui peut provoquer un jaunissement de la peau et du blanc de l'il, des urines foncées, des douleurs dans le côté droit de labdomen, une fièvre et des nausées ou vomissements) ;
+·
+rejet du greffon après une transplantation d'organe (tel quun rein, le cur).
+Déclaration des effets secondaires
+Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin ou votre pharmacien. Ceci sapplique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Vous pouvez également déclarer les effets indésirables directement via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :
+https://signalement.social-sante.gouv.fr/
+En signalant les effets indésirables, vous contribuez à fournir davantage dinformations sur la sécurité du médicament.
+5. COMMENT CONSERVER LENALIDOMIDE ARROW 7,5 mg, gélule ?
+Tenir ce médicament hors de la vue et de la portée des enfants.
+Nutilisez pas ce médicament après la date de péremption indiquée sur lemballage après EXP. La date de péremption fait référence au dernier jour de ce mois.
+A conserver à une température ne dépassant pas 30 °C.
+Ne jetez aucun médicament au tout-à-l'égout ou avec les ordures ménagères. Rapportez les médicaments non utilisés à votre pharmacien. Ces mesures contribueront à protéger l'environnement.
+6. CONTENU DE LEMBALLAGE ET AUTRES INFORMATIONS
+Ce que contient LENALIDOMIDE ARROW 7,5 mg, gélule
+·
+La substance active est :
+Lénalidomide.................................................................................................................. 7,5 mg
+Pour une gélule
+·
+Les autres composant sont :
+Contenu des gélules
+Lactose, cellulose microcristalline (Grade-102), croscarmellose sodique, stéarate de magnésium.
+Enveloppe des gélules
+Dioxyde de titane (E171), gélatine.
+Encre dimpression
+Gomme laque, oxyde de fer noir, hydroxyde de potassium.
+Quest-ce que LENALIDOMIDE ARROW 7,5 mg, gélule et contenu de lemballage extérieur
+Gélule
+Gélule avec une tête opaque blanche et un corps opaque blanc, de taille n°2, portant linscription « L7.5 » imprimée à lencre noire sur la tête et remplie dune poudre blanc cassé à jaune pâle.
+Boîtes de 7, 14, 21, 28 et 42.
+Toutes les présentations peuvent ne pas être commercialisées.
+Titulaire de lautorisation de mise sur le marché
+EUGIA PHARMA (MALTA) LTD
+VAULT 14, LEVEL 2
+VALLETTA WATERFRONT
+FLORIANA, FRN 1914
+MALTE
+Exploitant de lautorisation de mise sur le marché
+ARROW GENERIQUES
+26 AVENUE TONY GARNIER
+69007 LYON
+Fabricant
+APL SWIFT SERVICES (MALTA) LIMITED
+HF26, HAL FAR INDUSTRIAL ESTATE, HAL FAR
+BIRZEBBUGIA, BBG 3000
+MALTE
+OU
+GENERIS FARMACEUTICA S.A.
+RUA JOÃO DE DEUS, N O 19, VENDA NOVA
+2700-487 AMADORA
+PORTUGAL
+OU
+ARROW GENERIQUES
+26 AVENUE TONY GARNIER
+69007 LYON
+Noms du médicament dans les Etats membres de l'Espace Economique Européen
+Ce médicament est autorisé dans les Etats membres de l'Espace Economique Européen sous les noms suivants : Conformément à la réglementation en vigueur.
+[À compléter ultérieurement par le titulaire]
+La dernière date à laquelle cette notice a été révisée est :
+[à compléter ultérieurement par le titulaire]
+{mois AAAA}.
+Autres
+Des informations détaillées sur ce médicament sont disponibles sur le site Internet de lANSM (France).
