@@ -5,12 +5,18 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import re
+from collections import deque
 
 FOLDER_PATH = "notices_txt"
 MODEL_NAME = "all-MiniLM-L6-v2"
 OLLAMA_URL = "http://localhost:11434/api/generate"
+MAX_HISTORY = 10  # Nombre maximum de messages à mémoriser
 
 model = SentenceTransformer(MODEL_NAME)
+
+# Initialiser l'historique de conversation
+if 'history' not in st.session_state:
+    st.session_state.history = deque(maxlen=MAX_HISTORY)
 
 def load_documents(folder_path):
     docs = []
@@ -59,17 +65,44 @@ def extract_relevant_section(text, keywords=["effets indésirables", "effets sec
         sections.append(section)
     return sections if sections else [text]
 
-def ask_ollama(question, context):
+def check_history_for_answer(question, history):
+    """Vérifie si la réponse existe dans l'historique"""
+    question_embedding = embed_text(question)
+    history_texts = [f"Q: {h['question']}\nA: {h['answer']}" for h in history]
+    
+    if not history_texts:
+        return None
+    
+    history_embeddings = [embed_text(text) for text in history_texts]
+    similarities = cosine_similarity([question_embedding], history_embeddings)[0]
+    
+    # Seuil de similarité pour considérer que la question a déjà été posée
+    if np.max(similarities) > 0.7:
+        return history_texts[np.argmax(similarities)].split("\nA: ")[1]
+    return None
+
+def ask_ollama(question, context, history):
+    # Construire le prompt avec l'historique
+    history_prompt = "\n\n".join(
+        [f"Question précédente: {h['question']}\nRéponse précédente: {h['answer']}" 
+         for h in history]
+    ) if history else "Aucun historique de conversation."
+    
     prompt = f"""
 [INST]
 Tu es un assistant **francophone** chargé de répondre à des questions sur les médicaments en te basant **exclusivement sur le contenu de la notice fourni ci-dessous**.
 
 🧾 Consignes obligatoires :
 - Réponds **en français uniquement**.
-- Ne donne une réponse que **si l’information figure dans la notice**.
+- Tiens compte de l'historique de conversation fourni.
+- Ne donne une réponse que **si l'information figure dans la notice**.
 - ❌ N’invente rien. Tu peux **résumer légèrement**, mais tu dois **rester fidèle à la notice**.
 - ❌ Ne fais **aucune référence à la notice elle-même**, à ses sections, ni à un professionnel de santé.
-- Si l’information demandée n’est pas dans le contexte, réponds : **"L'information demandée n’est pas disponible dans le contexte fourni."**
+- Si l'information demandée n'est pas dans le contexte, réponds : **"L'information demandée n'est pas disponible dans le contexte fourni."**
+
+Historique de conversation :
+{history_prompt}
+[FIN DE L'HISTORIQUE]
 
 Notice :
 {context}
@@ -95,31 +128,70 @@ Question : {question}
 
 # 🌐 Interface Streamlit
 st.set_page_config(page_title="Assistant Médicament 💊", layout="wide")
-st.title("🤖 Assistant Médical basé sur les notices")
+st.title("🤖 Assistant Médical Conversationnel")
 
-question = st.text_input("Pose ta question ici (en français)")
+# Afficher l'historique
+if st.session_state.history:
+    st.subheader("📜 Historique de la conversation")
+    for i, exchange in enumerate(st.session_state.history):
+        st.markdown(f"**Q{i+1}:** {exchange['question']}")
+        st.markdown(f"**R{i+1}:** {exchange['answer']}")
+        st.write("---")
+
+question = st.text_input("Pose ta question ici (en français)", key="user_input")
 
 if question:
-    with st.spinner("🔍 Recherche du document pertinent..."):
-        documents, filenames = load_documents(FOLDER_PATH)
-        doc_embeddings = [embed_text(doc) for doc in documents]
-        best_doc = find_best_doc(question, documents, doc_embeddings)
-
-    if best_doc:
-        st.success("📄 Document trouvé")
-        with st.expander("📑 Afficher un extrait de la notice"):
-            st.text(best_doc[:2000])  # Pour inspection
-
-        with st.spinner("🔬 Recherche du passage le plus pertinent..."):
-            sections = extract_relevant_section(best_doc)
-            all_chunks = []
-            for section in sections:
-                all_chunks.extend(chunk_text(section))
-            best_chunk = find_best_chunk(question, all_chunks)
-
-        with st.spinner("💬 Génération de la réponse..."):
-            response = ask_ollama(question, best_chunk)
-        st.markdown("### 🧠 Réponse")
-        st.write(response)
+    # Vérifier d'abord dans l'historique
+    historical_answer = check_history_for_answer(question, st.session_state.history)
+    
+    if historical_answer:
+        st.markdown("### 🧠 Réponse (de l'historique)")
+        st.write(historical_answer)
+        # Ajouter quand même à l'historique
+        st.session_state.history.append({
+            "question": question,
+            "answer": historical_answer,
+            "source": "history"
+        })
     else:
-        st.warning("Aucun document pertinent trouvé pour cette question.")
+        with st.spinner("🔍 Recherche du document pertinent..."):
+            documents, filenames = load_documents(FOLDER_PATH)
+            doc_embeddings = [embed_text(doc) for doc in documents]
+            best_doc = find_best_doc(question, documents, doc_embeddings)
+
+        if best_doc:
+            st.success("📄 Document trouvé")
+            with st.expander("📑 Afficher un extrait de la notice"):
+                st.text(best_doc[:2000])  # Pour inspection
+
+            with st.spinner("🔬 Recherche du passage le plus pertinent..."):
+                sections = extract_relevant_section(best_doc)
+                all_chunks = []
+                for section in sections:
+                    all_chunks.extend(chunk_text(section))
+                best_chunk = find_best_chunk(question, all_chunks)
+
+            with st.spinner("💬 Génération de la réponse..."):
+                response = ask_ollama(question, best_chunk, st.session_state.history)
+            
+            st.markdown("### 🧠 Réponse")
+            st.write(response)
+            
+            # Ajouter à l'historique
+            st.session_state.history.append({
+                "question": question,
+                "answer": response,
+                "source": "document"
+            })
+        else:
+            st.warning("Aucun document pertinent trouvé pour cette question.")
+            st.session_state.history.append({
+                "question": question,
+                "answer": "Aucun document pertinent trouvé.",
+                "source": "error"
+            })
+
+# Bouton pour effacer l'historique
+if st.button("Effacer l'historique de conversation"):
+    st.session_state.history.clear()
+    st.experimental_rerun()
